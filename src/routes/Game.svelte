@@ -1,5 +1,6 @@
 <script>
   import Square from './Square.svelte';
+  import { levels } from './levels';
 </script>
 
 <div class="ematchi h-full grid content-center justify-center">
